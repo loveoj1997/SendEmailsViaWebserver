@@ -42,26 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SendEmail.exe" size="13720">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SendEmail.exe" size="14232">
       <assemblyIdentity name="SendEmail" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5Am8nRGnY0Pn06lvD7lUQ70Cq8Ase/c60vwBphDd3UU=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SendEmail.XmlSerializers.dll" size="8704">
-      <assemblyIdentity name="SendEmail.XmlSerializers" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6PinFEQUs3t/s4JI6fLO35/nOnpd7bjdhohf/CTYyvI=</dsig:DigestValue>
+        <dsig:DigestValue>ZipZVxuBUIqA3M75PfjgUOcQPqeVWrvbhmbz1MwoXM4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

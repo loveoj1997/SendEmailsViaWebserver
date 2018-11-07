@@ -53,3 +53,4 @@ D:\codes\email\email\obj\Release\email.csproj.CoreCompileInputs.cache
 D:\codes\email\email\obj\Release\email.csproj.CopyComplete
 D:\codes\email\email\obj\Release\email.dll
 D:\codes\email\email\obj\Release\email.pdb
+D:\codes\email\email\obj\Release\email.csprojAssemblyReference.cache

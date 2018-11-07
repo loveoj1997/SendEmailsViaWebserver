@@ -13,3 +13,4 @@ D:\codes\email\emailform\obj\Release\SendEmail.application
 D:\codes\email\emailform\obj\Release\SendEmail.exe
 D:\codes\email\emailform\obj\Release\SendEmail.pdb
 D:\codes\email\emailform\obj\Release\SendEmail.XmlSerializers.dll
+D:\codes\email\emailform\obj\Release\emailform.csprojAssemblyReference.cache

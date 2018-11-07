@@ -92,7 +92,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1045, 701);
+            this.ClientSize = new System.Drawing.Size(1006, 553);
             this.Controls.Add(this.send);
             this.Controls.Add(this.SendBox);
             this.Controls.Add(this.label2);
