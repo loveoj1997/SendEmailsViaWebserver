@@ -1,0 +1,4 @@
+D:\codes\email\emailform\obj\Debug\emailform.emailform.resources
+D:\codes\email\emailform\obj\Debug\emailform.Properties.Resources.resources
+D:\codes\email\emailform\obj\Debug\emailform.csproj.GenerateResource.cache
+D:\codes\email\emailform\obj\Debug\emailform.csproj.CoreCompileInputs.cache

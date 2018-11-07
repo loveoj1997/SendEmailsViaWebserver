@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "email", "email\email.csproj", "{29DAC295-D1B6-4811-9189-1F9952DEF8D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emailform", "emailform\emailform.csproj", "{522A8048-B4D2-4421-AD02-19C49D253452}"
+	ProjectSection(ProjectDependencies) = postProject
+		{29DAC295-D1B6-4811-9189-1F9952DEF8D9} = {29DAC295-D1B6-4811-9189-1F9952DEF8D9}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29DAC295-D1B6-4811-9189-1F9952DEF8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DAC295-D1B6-4811-9189-1F9952DEF8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DAC295-D1B6-4811-9189-1F9952DEF8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DAC295-D1B6-4811-9189-1F9952DEF8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522A8048-B4D2-4421-AD02-19C49D253452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522A8048-B4D2-4421-AD02-19C49D253452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522A8048-B4D2-4421-AD02-19C49D253452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522A8048-B4D2-4421-AD02-19C49D253452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4905A342-619C-4839-BB7A-DE6D76A4C795}
+	EndGlobalSection
+EndGlobal

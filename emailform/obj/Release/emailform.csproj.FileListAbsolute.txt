@@ -1,0 +1,15 @@
+D:\codes\email\emailform\obj\Release\emailform.emailform.resources
+D:\codes\email\emailform\obj\Release\emailform.Properties.Resources.resources
+D:\codes\email\emailform\obj\Release\emailform.csproj.GenerateResource.cache
+D:\codes\email\emailform\obj\Release\emailform.csproj.CoreCompileInputs.cache
+D:\codes\email\emailform\bin\Release\SendEmail.exe.config
+D:\codes\email\emailform\bin\Release\SendEmail.exe.manifest
+D:\codes\email\emailform\bin\Release\SendEmail.application
+D:\codes\email\emailform\bin\Release\SendEmail.exe
+D:\codes\email\emailform\bin\Release\SendEmail.XmlSerializers.dll
+D:\codes\email\emailform\bin\Release\SendEmail.pdb
+D:\codes\email\emailform\obj\Release\SendEmail.exe.manifest
+D:\codes\email\emailform\obj\Release\SendEmail.application
+D:\codes\email\emailform\obj\Release\SendEmail.exe
+D:\codes\email\emailform\obj\Release\SendEmail.pdb
+D:\codes\email\emailform\obj\Release\SendEmail.XmlSerializers.dll
